@@ -4,7 +4,7 @@ Face and eye detection using openCV. Used Haar feature-based cascade classifiers
 STEPS:
 1. Import cv2
 
-2. Retrieve dataset
+2. Retrieve dataset(change file path name)
 
 3. Take input from webcam
 
